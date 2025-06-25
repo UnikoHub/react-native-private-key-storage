@@ -1,0 +1,34 @@
+/* Invalid data error */
+"INVALID_DATA_ERROR" = "The provided base64 data is invalid.";
+
+/* Access control error */
+"ACCESS_CONTROL_ERROR" = "Unable to create access control for the private key: %@.";
+
+/* Store failed error */
+"STORE_ERROR" = "Could not store the private key: %@.";
+
+/* Not found error */
+"NOT_FOUND_ERROR" = "Private key not found: %@.";
+
+/* Delete failed error */
+"DELETE_ERROR" = "Unable to delete the private key: %@.";
+
+/* Authentication failed */
+"AUTH_ERROR" = "Authentication failed: %@.";
+
+/* Biometric unavailable error */
+"BIOMETRIC_UNAVAILABLE_ERROR" = "Biometric authentication is currently unavailable: %@.";
+
+/* Reason for authentication */
+"AUTH_SAVE_PRIVATE_KEY" = "Authenticate to store your private key.";
+"AUTH_SAVE_PRIVATE_KEYS" = "Authenticate to store your private keys.";
+"AUTH_PRIVATE_KEY" = "Authenticate to access your private key.";
+"AUTH_PRIVATE_KEYS" = "Authenticate to access your private keys.";
+"AUTH_DELETE_PRIVATE_KEY" = "Authenticate to delete your private key.";
+"AUTH_DELETE_PRIVATE_KEYS" = "Authenticate to delete your private keys.";
+
+/* Fallback title for authentication */
+"AUTH_USE_PASSCODE" = "Use Passcode";
+
+/* Cancel authentication */
+"AUTH_CANCEL" = "Cancel";

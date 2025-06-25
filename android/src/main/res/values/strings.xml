@@ -1,0 +1,19 @@
+<resources>
+  <!-- Biometric auth reasons -->
+  <string name="auth_save_private_key">Authenticate to save your private key</string>
+  <string name="auth_save_private_keys">Authenticate to save all private keys</string>
+  <string name="auth_view_private_key">Authenticate to view your private key</string>
+  <string name="auth_view_private_keys">Authenticate to view all private keys</string>
+  <string name="auth_delete_private_key">Authenticate to delete your private key</string>
+  <string name="auth_delete_private_keys">Authenticate to delete all private keys</string>
+
+  <!-- Biometric prompt description -->
+  <string name="auth_description">Biometric authentication is required</string>
+
+  <!-- Biometric prompt cancel button -->
+  <string name="auth_cancel_button">Cancel</string>
+
+  <!-- Error messages -->
+  <string name="auth_failed">Authentication failed: %1$s</string>
+  <string name="key_not_found">Private key not found</string>
+</resources>
