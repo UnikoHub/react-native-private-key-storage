@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.authors      = package["author"]
 
   s.platforms    = { :ios => min_ios_version_supported }
-  s.source       = { :git => "https://github.com/qdanik/react-native-private-key-storage.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/unikohub/react-native-private-key-storage.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m,mm,cpp,swift}"
   s.resources = ['ios/*.lproj']

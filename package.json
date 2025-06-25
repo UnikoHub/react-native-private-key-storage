@@ -49,14 +49,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qdanik/react-native-private-key-storage.git"
+    "url": "git+https://github.com/unikohub/react-native-private-key-storage.git"
   },
   "author": "Daniil Yankouski <yankouski.daniil@gmail.com> (https://github.com/qdanik)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qdanik/react-native-private-key-storage/issues"
+    "url": "https://github.com/unikohub/react-native-private-key-storage/issues"
   },
-  "homepage": "https://github.com/qdanik/react-native-private-key-storage#readme",
+  "homepage": "https://github.com/unikohub/react-native-private-key-storage#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
